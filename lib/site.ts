@@ -21,6 +21,7 @@ export const PERSIA_URL = "https://persia-stories.vercel.app";
 export const CHOSEN_URL = "https://the-chosen-korean.vercel.app";
 export const PHILOSOPHY_URL = "https://philosophy-stories.vercel.app";
 export const KOREA_URL = "https://korea-stories.vercel.app";
+export const ARTS_URL = "https://nadoo-arts.vercel.app";
 export const TIMELINE_URL = "https://nadoo-timeline.vercel.app";
 export const HUB_URL = "https://tinalinkeom.vercel.app";
 export const LANG_URL = "https://language-study-snowy.vercel.app";
@@ -39,6 +40,7 @@ export const SISTER_SITES = [
   { href: PHILOSOPHY_URL, label: "철학이야기", en: "Philosophy" },
   { href: KOREA_URL, label: "대한민국이야기", en: "Korea" },
   { href: SITE_URL, label: "나두세계", en: "World", current: true },
+  { href: ARTS_URL, label: "나두예술", en: "Arts" },
   { href: TIMELINE_URL, label: "나두연표", en: "Timeline" },
   { href: HUB_URL, label: "나두 허브", en: "Nadoo Hub" },
 ] as const;
