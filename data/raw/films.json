@@ -1,0 +1,623 @@
+[
+  {
+    "id": "secrets-of-the-saqqara-tomb-2020",
+    "koTitle": "사카라 무덤의 비밀",
+    "originalTitle": "Secrets of the Saqqara Tomb",
+    "year": 2020,
+    "type": "다큐",
+    "periodStart": -2494,
+    "periodEnd": -2345,
+    "lanes": [
+      "egypt"
+    ]
+  },
+  {
+    "id": "exodus-gods-and-kings-2014",
+    "koTitle": "엑소더스: 신들과 왕들",
+    "originalTitle": "Exodus: Gods and Kings",
+    "year": 2014,
+    "type": "영화",
+    "periodStart": -1446,
+    "periodEnd": -1446,
+    "lanes": [
+      "israel",
+      "egypt"
+    ]
+  },
+  {
+    "id": "prince-of-egypt-1998",
+    "koTitle": "이집트 왕자",
+    "originalTitle": "The Prince of Egypt",
+    "year": 1998,
+    "type": "영화",
+    "periodStart": -1446,
+    "periodEnd": -1446,
+    "lanes": [
+      "israel",
+      "egypt"
+    ]
+  },
+  {
+    "id": "testament-story-of-moses-2024",
+    "koTitle": "테스터먼트: 모세 이야기",
+    "originalTitle": "Testament: The Story of Moses",
+    "year": 2024,
+    "type": "다큐",
+    "periodStart": -1446,
+    "periodEnd": -1446,
+    "lanes": [
+      "israel",
+      "egypt"
+    ]
+  },
+  {
+    "id": "the-ten-commandments-1956",
+    "koTitle": "십계",
+    "originalTitle": "The Ten Commandments",
+    "year": 1956,
+    "type": "영화",
+    "periodStart": -1446,
+    "periodEnd": -1446,
+    "lanes": [
+      "israel",
+      "egypt"
+    ]
+  },
+  {
+    "id": "helen-of-troy-1956",
+    "koTitle": "헬레네 오브 트로이",
+    "originalTitle": "Helen of Troy",
+    "year": 1956,
+    "type": "영화",
+    "periodStart": -1194,
+    "periodEnd": -1184,
+    "lanes": [
+      "greece"
+    ]
+  },
+  {
+    "id": "helen-of-troy-2003",
+    "koTitle": "헬레네 오브 트로이",
+    "originalTitle": "Helen of Troy",
+    "year": 2003,
+    "type": "시리즈",
+    "periodStart": -1194,
+    "periodEnd": -1184,
+    "lanes": [
+      "greece"
+    ]
+  },
+  {
+    "id": "troy-2004",
+    "koTitle": "트로이",
+    "originalTitle": "Troy",
+    "year": 2004,
+    "type": "영화",
+    "periodStart": -1194,
+    "periodEnd": -1184,
+    "lanes": [
+      "greece"
+    ]
+  },
+  {
+    "id": "troy-fall-of-a-city-2018",
+    "koTitle": "트로이: 왕국의 몰락",
+    "originalTitle": "Troy: Fall of a City",
+    "year": 2018,
+    "type": "시리즈",
+    "periodStart": -1194,
+    "periodEnd": -1184,
+    "lanes": [
+      "greece"
+    ]
+  },
+  {
+    "id": "trojan-women-1971",
+    "koTitle": "트로이의 여인들",
+    "originalTitle": "The Trojan Women",
+    "year": 1971,
+    "type": "영화",
+    "periodStart": -1184,
+    "periodEnd": -1184,
+    "lanes": [
+      "greece"
+    ]
+  },
+  {
+    "id": "the-odyssey-1997",
+    "koTitle": "오딧세이",
+    "originalTitle": "The Odyssey",
+    "year": 1997,
+    "type": "시리즈",
+    "periodStart": -1184,
+    "periodEnd": -1174,
+    "lanes": [
+      "greece"
+    ]
+  },
+  {
+    "id": "the-odyssey-2026",
+    "koTitle": "오디세이",
+    "originalTitle": "The Odyssey",
+    "year": 2026,
+    "type": "영화",
+    "periodStart": -1184,
+    "periodEnd": -1174,
+    "lanes": [
+      "greece"
+    ]
+  },
+  {
+    "id": "the-return-2024",
+    "koTitle": "더 리턴",
+    "originalTitle": "The Return",
+    "year": 2024,
+    "type": "영화",
+    "periodStart": -1174,
+    "periodEnd": -1174,
+    "lanes": [
+      "greece"
+    ]
+  },
+  {
+    "id": "300-2006",
+    "koTitle": "300",
+    "originalTitle": "300",
+    "year": 2006,
+    "type": "영화",
+    "periodStart": -480,
+    "periodEnd": -480,
+    "lanes": [
+      "greece",
+      "persia"
+    ]
+  },
+  {
+    "id": "300-rise-of-an-empire-2014",
+    "koTitle": "300: 제국의 부활",
+    "originalTitle": "300: Rise of an Empire",
+    "year": 2014,
+    "type": "영화",
+    "periodStart": -480,
+    "periodEnd": -480,
+    "lanes": [
+      "greece",
+      "persia"
+    ]
+  },
+  {
+    "id": "alexander-2004",
+    "koTitle": "알렉산더",
+    "originalTitle": "Alexander",
+    "year": 2004,
+    "type": "영화",
+    "periodStart": -334,
+    "periodEnd": -323,
+    "lanes": [
+      "greece",
+      "persia",
+      "egypt"
+    ]
+  },
+  {
+    "id": "alexander-the-great-1956",
+    "koTitle": "알렉산더 대왕",
+    "originalTitle": "Alexander the Great",
+    "year": 1956,
+    "type": "영화",
+    "periodStart": -334,
+    "periodEnd": -323,
+    "lanes": [
+      "greece",
+      "persia",
+      "egypt"
+    ]
+  },
+  {
+    "id": "spartacus-1960",
+    "koTitle": "스파르타쿠스",
+    "originalTitle": "Spartacus",
+    "year": 1960,
+    "type": "영화",
+    "periodStart": -73,
+    "periodEnd": -71,
+    "lanes": [
+      "rome"
+    ]
+  },
+  {
+    "id": "rome-hbo-2005",
+    "koTitle": "로마",
+    "originalTitle": "Rome",
+    "year": 2005,
+    "type": "시리즈",
+    "periodStart": -52,
+    "periodEnd": -30,
+    "lanes": [
+      "rome"
+    ]
+  },
+  {
+    "id": "roman-empire-2016",
+    "koTitle": "로마 제국",
+    "originalTitle": "Roman Empire",
+    "year": 2016,
+    "type": "다큐",
+    "periodStart": -49,
+    "periodEnd": 192,
+    "lanes": [
+      "rome"
+    ]
+  },
+  {
+    "id": "cleopatra-1963",
+    "koTitle": "클레오파트라",
+    "originalTitle": "Cleopatra",
+    "year": 1963,
+    "type": "영화",
+    "periodStart": -48,
+    "periodEnd": -30,
+    "lanes": [
+      "egypt",
+      "rome"
+    ]
+  },
+  {
+    "id": "i-claudius-1976",
+    "koTitle": "나, 클라우디우스",
+    "originalTitle": "I, Claudius",
+    "year": 1976,
+    "type": "시리즈",
+    "periodStart": -27,
+    "periodEnd": 54,
+    "lanes": [
+      "rome"
+    ]
+  },
+  {
+    "id": "mary-2024",
+    "koTitle": "마리아",
+    "originalTitle": "Mary",
+    "year": 2024,
+    "type": "영화",
+    "periodStart": -6,
+    "periodEnd": -4,
+    "lanes": [
+      "israel"
+    ]
+  },
+  {
+    "id": "the-chosen-2019",
+    "koTitle": "더 초즌",
+    "originalTitle": "The Chosen",
+    "year": 2019,
+    "type": "시리즈",
+    "periodStart": -4,
+    "periodEnd": 30,
+    "lanes": [
+      "israel"
+    ]
+  },
+  {
+    "id": "ben-hur-1959",
+    "koTitle": "벤허",
+    "originalTitle": "Ben-Hur",
+    "year": 1959,
+    "type": "영화",
+    "periodStart": 26,
+    "periodEnd": 33,
+    "lanes": [
+      "israel",
+      "rome"
+    ]
+  },
+  {
+    "id": "the-passion-of-the-christ-2004",
+    "koTitle": "패션 오브 크라이스트",
+    "originalTitle": "The Passion of the Christ",
+    "year": 2004,
+    "type": "영화",
+    "periodStart": 30,
+    "periodEnd": 30,
+    "lanes": [
+      "israel"
+    ]
+  },
+  {
+    "id": "quo-vadis-1951",
+    "koTitle": "쿼 바디스",
+    "originalTitle": "Quo Vadis",
+    "year": 1951,
+    "type": "영화",
+    "periodStart": 64,
+    "periodEnd": 64,
+    "lanes": [
+      "rome",
+      "israel"
+    ]
+  },
+  {
+    "id": "pompeii-2014",
+    "koTitle": "폼페이: 최후의 날",
+    "originalTitle": "Pompeii",
+    "year": 2014,
+    "type": "영화",
+    "periodStart": 79,
+    "periodEnd": 79,
+    "lanes": [
+      "rome"
+    ]
+  },
+  {
+    "id": "fall-of-the-roman-empire-1964",
+    "koTitle": "로마제국의 멸망",
+    "originalTitle": "The Fall of the Roman Empire",
+    "year": 1964,
+    "type": "영화",
+    "periodStart": 180,
+    "periodEnd": 192,
+    "lanes": [
+      "rome"
+    ]
+  },
+  {
+    "id": "gladiator-2000",
+    "koTitle": "글래디에이터",
+    "originalTitle": "Gladiator",
+    "year": 2000,
+    "type": "영화",
+    "periodStart": 180,
+    "periodEnd": 192,
+    "lanes": [
+      "rome"
+    ]
+  },
+  {
+    "id": "gladiator-ii-2024",
+    "koTitle": "글래디에이터 Ⅱ",
+    "originalTitle": "Gladiator II",
+    "year": 2024,
+    "type": "영화",
+    "periodStart": 211,
+    "periodEnd": 211,
+    "lanes": [
+      "rome"
+    ]
+  },
+  {
+    "id": "agora-2009",
+    "koTitle": "아고라",
+    "originalTitle": "Agora",
+    "year": 2009,
+    "type": "영화",
+    "periodStart": 391,
+    "periodEnd": 415,
+    "lanes": [
+      "egypt",
+      "greece"
+    ]
+  },
+  {
+    "id": "king-arthur-2004",
+    "koTitle": "킹 아더",
+    "originalTitle": "King Arthur",
+    "year": 2004,
+    "type": "영화",
+    "periodStart": 467,
+    "periodEnd": 476,
+    "lanes": [
+      "medieval",
+      "rome"
+    ]
+  },
+  {
+    "id": "the-last-legion-2007",
+    "koTitle": "라스트 리전",
+    "originalTitle": "The Last Legion",
+    "year": 2007,
+    "type": "영화",
+    "periodStart": 476,
+    "periodEnd": 500,
+    "lanes": [
+      "rome",
+      "medieval"
+    ]
+  },
+  {
+    "id": "excalibur-1981",
+    "koTitle": "엑스칼리버",
+    "originalTitle": "Excalibur",
+    "year": 1981,
+    "type": "영화",
+    "periodStart": 500,
+    "periodEnd": 550,
+    "lanes": [
+      "medieval"
+    ]
+  },
+  {
+    "id": "king-arthur-legend-of-the-sword-2017",
+    "koTitle": "킹 아서: 제왕의 검",
+    "originalTitle": "King Arthur: Legend of the Sword",
+    "year": 2017,
+    "type": "영화",
+    "periodStart": 500,
+    "periodEnd": 550,
+    "lanes": [
+      "medieval"
+    ]
+  },
+  {
+    "id": "the-great-battle-2018",
+    "koTitle": "안시성",
+    "originalTitle": "The Great Battle",
+    "year": 2018,
+    "type": "영화",
+    "periodStart": 645,
+    "periodEnd": 645,
+    "lanes": [
+      "korea"
+    ]
+  },
+  {
+    "id": "hwangsanbeol-2003",
+    "koTitle": "황산벌",
+    "originalTitle": "Once Upon a Time in a Battlefield",
+    "year": 2003,
+    "type": "영화",
+    "periodStart": 660,
+    "periodEnd": 660,
+    "lanes": [
+      "korea"
+    ]
+  },
+  {
+    "id": "vikings-2013",
+    "koTitle": "바이킹스",
+    "originalTitle": "Vikings",
+    "year": 2013,
+    "type": "시리즈",
+    "periodStart": 793,
+    "periodEnd": 900,
+    "lanes": [
+      "medieval"
+    ]
+  },
+  {
+    "id": "the-last-kingdom-2015",
+    "koTitle": "라스트 킹덤",
+    "originalTitle": "The Last Kingdom",
+    "year": 2015,
+    "type": "시리즈",
+    "periodStart": 866,
+    "periodEnd": 899,
+    "lanes": [
+      "medieval"
+    ],
+    "netflixKr": true,
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "id": "kingdom-of-heaven-2005",
+    "koTitle": "킹덤 오브 헤븐",
+    "originalTitle": "Kingdom of Heaven",
+    "year": 2005,
+    "type": "영화",
+    "periodStart": 1184,
+    "periodEnd": 1187,
+    "lanes": [
+      "medieval",
+      "egypt"
+    ]
+  },
+  {
+    "id": "robin-hood-2010",
+    "koTitle": "로빈 후드",
+    "originalTitle": "Robin Hood",
+    "year": 2010,
+    "type": "영화",
+    "periodStart": 1191,
+    "periodEnd": 1194,
+    "lanes": [
+      "medieval"
+    ]
+  },
+  {
+    "id": "braveheart-1995",
+    "koTitle": "브레이브하트",
+    "originalTitle": "Braveheart",
+    "year": 1995,
+    "type": "영화",
+    "periodStart": 1297,
+    "periodEnd": 1305,
+    "lanes": [
+      "medieval"
+    ]
+  },
+  {
+    "id": "outlaw-king-2018",
+    "koTitle": "아웃로 킹",
+    "originalTitle": "Outlaw King",
+    "year": 2018,
+    "type": "영화",
+    "periodStart": 1306,
+    "periodEnd": 1314,
+    "lanes": [
+      "medieval"
+    ]
+  },
+  {
+    "id": "the-name-of-the-rose-1986",
+    "koTitle": "장미의 이름",
+    "originalTitle": "The Name of the Rose",
+    "year": 1986,
+    "type": "영화",
+    "periodStart": 1327,
+    "periodEnd": 1327,
+    "lanes": [
+      "medieval"
+    ]
+  },
+  {
+    "id": "the-last-duel-2021",
+    "koTitle": "라스트 듀얼: 최후의 결투",
+    "originalTitle": "The Last Duel",
+    "year": 2021,
+    "type": "영화",
+    "periodStart": 1386,
+    "periodEnd": 1386,
+    "lanes": [
+      "medieval"
+    ]
+  },
+  {
+    "id": "the-king-2019",
+    "koTitle": "더 킹: 헨리 5세",
+    "originalTitle": "The King",
+    "year": 2019,
+    "type": "영화",
+    "periodStart": 1413,
+    "periodEnd": 1420,
+    "lanes": [
+      "medieval"
+    ],
+    "netflixKr": true,
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "id": "the-messenger-1999",
+    "koTitle": "잔 다르크",
+    "originalTitle": "The Messenger: The Story of Joan of Arc",
+    "year": 1999,
+    "type": "영화",
+    "periodStart": 1429,
+    "periodEnd": 1431,
+    "lanes": [
+      "medieval"
+    ]
+  },
+  {
+    "id": "forbidden-dream-2019",
+    "koTitle": "천문: 하늘에 묻는다",
+    "originalTitle": "Forbidden Dream",
+    "year": 2019,
+    "type": "영화",
+    "periodStart": 1434,
+    "periodEnd": 1442,
+    "lanes": [
+      "korea"
+    ]
+  },
+  {
+    "id": "the-kings-letters-2019",
+    "koTitle": "나랏말싸미",
+    "originalTitle": "The King's Letters",
+    "year": 2019,
+    "type": "영화",
+    "periodStart": 1443,
+    "periodEnd": 1446,
+    "lanes": [
+      "korea"
+    ]
+  }
+]

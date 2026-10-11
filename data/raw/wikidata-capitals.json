@@ -1,0 +1,5353 @@
+{
+  "head" : {
+    "vars" : [ "iso", "capEn", "capKo", "lat", "lon" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "포트오브스페인"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Port of Spain"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TT"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "10.666666666667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-61.516666666667"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "누쿠알로파"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nukuʻalofa"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TO"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-21.1343401"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-175.201808"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "바스테르"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Basseterre"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "KN"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "17.298333333333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-62.734166666667"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "싱가포르"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Singapore"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "SG"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "1.3"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "103.8"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "호니아라"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honiara"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "SB"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-9.433333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "159.95"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "베를린"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Berlin"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "DE"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "52.516666666667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "13.383333333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "타슈켄트"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tashkent"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "UZ"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "41.311111111111"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "69.279722222222"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "세인트조지스"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "St. George's"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "GD"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "12.0525"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-61.753055555556"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "바르샤바"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Warsaw"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "PL"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "52.23"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "21.011111111111"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "워싱턴 D.C."
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Washington, D.C."
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "US"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "38.895"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-77.036666666667"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "류블랴나"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ljubljana"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "SI"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "46.051388888889"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "14.506111111111"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "스코페"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Skopje"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "MK"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "41.996111111111"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "21.431666666667"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "오슬로"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Oslo"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "NO"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "59.913333333333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "10.738888888889"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "소피아"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sofia"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "BG"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "42.697886"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "23.321726"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "캐스트리스"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Castries"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "LC"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "14.010833333333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-60.989444444444"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "스리자야와르데네푸라코테"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sri Jayawardenepura Kotte"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "LK"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "6.9"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "79.916388888889"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "킹스타운"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingstown"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "VC"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "13.15527"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-61.22742"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "리스본"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lisbon"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "PT"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "38.708042"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-9.139016"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "카이로"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cairo"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "EG"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "30.044444444444"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "31.235833333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "암스테르담"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Amsterdam"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "NL"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "52.366666666667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "4.8833333333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "베른"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bern"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "CH"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "46.94798"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "7.44743"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "팔리키르"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Palikir"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "FM"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "6.9177777777778"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "158.185"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "뉴델리"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Delhi"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "IN"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "28.613888888889"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "77.208888888889"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "모스크바"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Moscow"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "RU"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "55.750555555556"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "37.6175"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "파리"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paris"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "FR"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "48.856666666667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "2.3522222222222"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "로마"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rome"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "IT"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "41.893055555556"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "12.482777777778"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "트빌리시"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tbilisi"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "GE"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "41.7225"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "44.7925"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "프라하"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prague"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "CZ"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "50.0875"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "14.421388888889"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "베이징시"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Beijing"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "CN"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "39.90403"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "116.407526"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "빌뉴스"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vilnius"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "LT"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "54.687222222222"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "25.28"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "런던"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "GB"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "51.507222222222"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-0.1275"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "누크"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nuuk"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "GL"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "64.175"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-51.733333333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "모나코"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Monaco"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "MC"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "43.731111111111"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "7.42"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "예루살렘"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jerusalem"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "IL"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "31.776679"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "35.234156"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "예루살렘"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jerusalem"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "IL"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "31.778888888889"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "35.225555555556"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "몬테비데오"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Montevideo"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "UY"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-34.905916666667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-56.191311111111"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "바티칸 시국"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vatican City"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "VA"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "41.904"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "12.453"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "다카"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dhaka"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "BD"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "23.728888888889"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "90.394444444444"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "브뤼셀"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brussels"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "BE"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "50.846666666667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "4.3516666666667"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "이슬라마바드"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Islamabad"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "PK"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "33.698888888889"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "73.036944444444"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "바마코"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bamako"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "ML"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "12.645833333333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-7.9922222222222"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "마닐라"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manila"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "PH"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "14.595833333333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "120.97722222222"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "다카르"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dakar"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "SN"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "14.672555555556"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-17.432"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "베오그라드"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belgrade"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "RS"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "44.817777777778"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "20.456944444444"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "자그레브"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zagreb"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "HR"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "45.813055555556"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "15.977222222222"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "멕시코시티"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mexico City"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "MX"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "19.353773"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-99.13589"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "반줄"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Banjul"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "GM"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "13.453055555556"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-16.5775"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "부에노스아이레스"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Buenos Aires"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "AR"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-34.599722222222"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-58.381944444444"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "도쿄도"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tokyo"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "JP"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "35.689444444444"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "139.69166666667"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "라파스"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "La Paz"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "BO"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-16.495833333333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-68.133333333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "코나크리"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Conakry"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "GN"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "9.5091666666667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-13.712222222222"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "몬로비아"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Monrovia"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "LR"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "6.3105555555556"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-10.804722222222"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "아부다비"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Abu Dhabi"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "AE"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "24.451111111111"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "54.396944444444"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "비사우"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bissau"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "GW"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "11.86"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-15.583333333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "프라이아"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Praia"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "CV"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "14.917719444444"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-23.509155555556"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "아크라"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Accra"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "GH"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "5.55602"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-0.1969"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "아스타나"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Astana"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "KZ"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "51.133333333333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "71.433333333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "아테네"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Athens"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "GR"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "37.984166666667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "23.728055555556"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "다마스쿠스"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Damascus"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "SY"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "33.513055555556"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "36.291944444444"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "다마스쿠스"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Damascus"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "SY"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "33.513"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "36.292"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "야무수크로"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yamoussoukro"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "CI"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "6.8161111111111"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-5.2741666666667"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "카라카스"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Caracas"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "VE"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "10.506111111111"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-66.914444444444"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "와가두구"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ouagadougou"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "BF"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "12.368611111111"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-1.5275"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "과테말라시티"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guatemala City"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "GT"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "14.641666666667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-90.513333333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "아바나"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Havana"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "CU"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "23.136666666667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-82.358888888889"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "아부자"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Abuja"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "NG"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "9.0555555555556"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "7.4913888888889"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "프리타운"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Freetown"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "SL"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "8.4872222222222"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-13.235555555556"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "바그다드"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Baghdad"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "IQ"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "33.315277777778"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "44.366111111111"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "포르토노보"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Porto-Novo"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "BJ"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "6.4833333333333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "2.6166666666667"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "로메"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lomé"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TG"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "6.13"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "1.2158333333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "빈"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vienna"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "AT"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "48.208333333333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "16.3725"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "코펜하겐"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Copenhagen"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "DK"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "55.676111111111"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "12.568888888889"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "야운데"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yaoundé"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "CM"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "3.8577777777778"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "11.518055555556"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "암만"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Amman"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "JO"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "31.95"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "35.933333333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "암만"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Amman"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "JO"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "31.930983"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "35.926084"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "베이루트"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Beirut"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "LB"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "33.886944444444"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "35.513055555556"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "리브르빌"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Libreville"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "GA"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "0.40777777777778"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "9.4402777777778"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "무스카트"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muscat"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "OM"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "23.613888888889"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "58.592222222222"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "스톡홀름"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stockholm"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "SE"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "59.329444444444"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "18.068611111111"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "헬싱키"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Helsinki"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "FI"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "60.170833333333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "24.9375"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "방기"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bangui"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "CF"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "4.37325"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "18.562833333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "더블린"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dublin"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "IE"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "53.349722222222"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-6.2602777777778"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "레이캬비크"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Reykjavík"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "IS"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "64.1475"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-21.935"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "킨샤사"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinshasa"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "CD"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-4.3219444444444"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "15.311944444444"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "브라자빌"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazzaville"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "CG"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-4.2694444444444"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "15.271111111111"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "탈린"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tallinn"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "EE"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "59.437222222222"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "24.745"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "리가"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Riga"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "LV"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "56.9475"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "24.106944444444"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "니코시아"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nicosia"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "CY"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "35.1725"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "33.365"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "키갈리"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kigali"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "RW"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-1.9525"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "30.115"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "도하"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Doha"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "QA"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "25.286111111111"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "51.529444444444"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "브라티슬라바"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bratislava"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "SK"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "48.14816"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "17.10674"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "브라티슬라바"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bratislava"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "SK"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "48.1516988"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "17.1093063"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "부다페스트"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Budapest"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "HU"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "47.498333333333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "19.040833333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "도도마"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dodoma"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TZ"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-6.1835"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "35.746"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "나이로비"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nairobi"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "KE"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-1.2863888888889"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "36.817222222222"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "루사카"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lusaka"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "ZM"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-15.416666666667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "28.283333333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "릴롱궤"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lilongwe"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "MW"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-13.986388888889"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "33.768055555556"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "룩셈부르크"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luxembourg"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "LU"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "49.611388888889"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "6.13"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "마나마"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manama"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "BH"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "26.216666666667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "50.583333333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "파두츠"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vaduz"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "LI"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "47.140555555556"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "9.5222222222222"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "마푸투"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maputo"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "MZ"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-25.968888888889"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "32.573333333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "프놈펜"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Phnom Penh"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "KH"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "11.569583333333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "104.92102777778"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "하노이"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hanoi"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "VN"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "21.0245"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "105.84117"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "방콕"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bangkok"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TH"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "13.75"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "100.51666666667"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "산마리노"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "San Marino"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "SM"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "43.932011111111"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "12.44845"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "캄팔라"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kampala"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "UG"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "0.31361111111111"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "32.581111111111"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "루안다"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luanda"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "AO"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-8.8383333333333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "13.234444444444"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "모로니"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Moroni"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "KM"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-11.703611111111"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "43.253611111111"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "안도라라벨랴"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andorra la Vella"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "AD"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "42.507222222222"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "1.5222222222222"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "키이우"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kyiv"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "UA"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "50.45"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "30.523611111111"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "쿠알라룸푸르"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuala Lumpur"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "MY"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "3.1477777777778"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "101.69527777778"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "음바바네"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mbabane"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "SZ"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-26.316666666667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "31.133333333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "마세루"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maseru"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "LS"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-29.31667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "27.48333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "마세루"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maseru"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "LS"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-29.31"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "27.48"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "안타나나리보"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antananarivo"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "MG"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-18.91"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "47.525"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "오타와"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ottawa"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "CA"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "45.424722222222"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-75.695"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "주바"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Juba"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "SS"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "4.8538888888889"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "31.5825"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "상투메"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "São Tomé"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "ST"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "0.3375"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "6.7283333333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "가보로네"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gaborone"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "BW"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-24.656944444444"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "25.908611111111"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "하라레"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Harare"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "ZW"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-17.829166666667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "31.052222222222"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "포트루이스"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Port Louis"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "MU"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-20.161944444444"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "57.498888888889"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "하르툼"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Khartoum"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "SD"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "15.60308"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "32.52654"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "프리토리아"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pretoria"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "ZA"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-25.746388888889"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "28.188055555556"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "민스크"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Minsk"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "BY"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "53.902246"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "27.561837"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "예레반"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yerevan"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "AM"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "40.181388888889"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "44.514444444444"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "빈트후크"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Windhoek"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "NA"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-22.57"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "17.083611111111"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "모가디슈"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mogadishu"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "SO"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "2.0391666666667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "45.341944444444"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "빅토리아"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Victoria"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "SC"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-4.6236111111111"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "55.454444444444"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "케이프타운"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cape Town"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "ZA"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-33.925277777778"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "18.423888888889"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "나소"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nassau"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "BS"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "25.078055555556"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-77.338611111111"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "사나"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sanaa"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "YE"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "15.35"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "44.2"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "카불"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kabul"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "AF"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "34.532777777778"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "69.165833333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "마드리드"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Madrid"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "ES"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "40.416944444444"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-3.7033333333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "보고타"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bogotá"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "CO"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "4.60971"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-74.08175"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "서울특별시"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Seoul"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "KR"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "37.56"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "126.99"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "바쿠"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Baku"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "AZ"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "40.366655555556"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "49.835183333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "팀부"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thimphu"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "BT"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "27.47135"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "89.63367"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "리마"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lima"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "PE"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-12.06"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-77.0375"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "브라질리아"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brasília"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "BR"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-15.793888888889"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-47.882777777778"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "산티아고"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Santiago"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "CL"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-33.4375"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-70.65"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "반다르스리브가완"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bandar Seri Begawan"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "BN"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "4.9166666666667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "114.91666666667"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "딜리"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dili"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TL"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-8.5536111111111"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "125.57833333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "수크레"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sucre"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "BO"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-19.0475"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-65.26"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "비엔티안"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vientiane"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "LA"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "17.98"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "102.63"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "키토"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Quito"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "EC"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-0.22"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-78.5125"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "아순시온"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Asunción"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "PY"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-25.28"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-57.634444444444"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "말레"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malé"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "MV"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "4.175"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "73.508333333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "두샨베"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dushanbe"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TJ"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "38.573055555556"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "68.786388888889"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "산호세"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "San José"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "CR"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "9.9327388888889"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-84.079613888889"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "벨모판"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belmopan"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "BZ"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "17.25"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-88.7675"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "산살바도르"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "San Salvador"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "SV"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "13.697597222222"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-89.191155555556"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "카트만두"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kathmandu"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "NP"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "27.71"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "85.32"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "캔버라"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Canberra"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "AU"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-35.293055555556"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "149.12694444444"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "사라예보"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sarajevo"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "BA"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "43.856388888889"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "18.413055555556"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "파라마리보"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paramaribo"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "SR"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "5.8666666666667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-55.166666666667"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "비슈케크"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bishkek"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "KG"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "42.866666666667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "74.566666666667"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "파나마시티"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Panama City"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "PA"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "8.9711111111111"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-79.534722222222"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "조지타운"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Georgetown"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "GY"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "6.8058333333333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-58.150833333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "테구시갈파"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tegucigalpa"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "HN"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "14.105783333333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-87.204705555556"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "마주로"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Majuro"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "MH"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "7.0918"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "171.3802"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "알제"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Algiers"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "DZ"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "36.776388888889"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "3.0586111111111"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "라바트"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rabat"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "MA"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "34.021111111111"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-6.8413888888889"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "평양시"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pyongyang"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "KP"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "39.016666666667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "125.7475"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "부쿠레슈티"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bucharest"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "RO"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "44.413361111111"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "26.097777777778"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "트리폴리"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tripoli"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "LY"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "32.8875"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "13.1875"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "튀니스"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tunis"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TN"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "36.800833333333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "10.18"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "티라나"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tirana"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "AL"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "41.328333333333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "19.818055555556"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "지부티"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Djibouti"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "DJ"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "11.595"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "43.148055555556"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "아디스아바바"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Addis Ababa"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "ET"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "9.0358333333333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "38.7525"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "테헤란"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tehran"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "IR"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "35.688888888889"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "51.389722222222"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "키시너우"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chișinău"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "MD"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "47.022777777778"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "28.835277777778"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "아시가바트"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ashgabat"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TM"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "37.95"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "58.383333333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "자카르타"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jakarta"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "ID"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-6.1752777777778"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "106.82694444444"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "울란바타르"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ulaanbaatar"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "MN"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "47.921357"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "106.905515"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "포드고리차"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Podgorica"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "ME"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "42.441388888889"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "19.262777777778"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "앙카라"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ankara"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TR"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "39.93576"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "32.83869"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "웰링턴"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wellington"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "NZ"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-41.288888888889"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "174.77722222222"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "은자메나"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "N'Djamena"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TD"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "12.11"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "15.05"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "아스마라"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Asmara"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "ER"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "15.333333333333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "38.916666666667"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "니아메"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Niamey"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "NE"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "13.515"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "2.1175"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "누악쇼트"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nouakchott"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "MR"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "18.08581"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-15.9785"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "발레타"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Valletta"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "MT"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "35.897777777778"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "14.5125"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "필립스뷔르흐"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Philipsburg"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "SX"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "18.024166666667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-63.043333333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "알로피"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alofi"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "NU"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-19.056"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-169.921"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "리야드"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Riyadh"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "SA"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "24.65"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "46.71"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "야렌구"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yaren District"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "NR"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-0.5477"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "166.920867"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "프리슈티나"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pristina"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "XK"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "42.666666666667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "21.166666666667"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "로밤바"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lobamba"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "SZ"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-26.44648"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "31.206411"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "푸나푸티"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Funafuti"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "TV"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-8.5047777777778"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "179.11736111111"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "사우스타라와"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Tarawa"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "KI"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "1.3333333333333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "172.96666666667"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "포르토프랭스"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Port-au-Prince"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "HT"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "18.546944444444"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-72.340277777778"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "오라녜스타트"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Oranjestad"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "AW"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "12.518611111111"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-70.035833333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "아덴"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aden"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "YE"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "12.8"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "45.033333333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "킹스턴"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingston"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "JM"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "17.971388888889"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-76.793055555556"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "산토도밍고"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Santo Domingo"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "DO"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "18.4625"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-69.936111111111"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "빌렘스타트"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Willemstad"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "CW"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "12.108"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-68.935"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "라말라"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ramallah"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "PS"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "31.896944444444"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "35.201666666667"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "쿠웨이트 시"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuwait City"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "KW"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "29.375"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "47.98"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "기테가"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gitega"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "BI"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-3.4283333333333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "29.925"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "콜롬보"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Colombo"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "LK"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "6.9266666666667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "79.860555555556"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "브리지타운"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bridgetown"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "BB"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "13.0975"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-59.616666666667"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "마나과"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Managua"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "NI"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "12.154680555556"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-86.273725"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "세인트존스"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "AG"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "17.121111111111"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-61.844722222222"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "응게룰무드"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ngerulmud"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "PW"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "7.500556"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "134.624167"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "오얄라"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ciudad de la Paz"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "GQ"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "1.5916666666667"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "10.822222222222"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "아피아"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Apia"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "WS"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-13.833333333333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-171.83333333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "로조"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roseau"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "DM"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "15.3"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-61.383333333333"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "동예루살렘"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "East Jerusalem"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "PS"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "31.78336"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "35.23388"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "아바루아"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Avarua"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "CK"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-21.207"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-159.771"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "네피도"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Naypyidaw"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "MM"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "19.7475"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "96.115"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "포트빌라"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Port Vila"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "VU"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-17.73333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "168.316667"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "블룸폰테인"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bloemfontein"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "ZA"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-29.1"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "26.216666666667"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "포트모르즈비"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Port Moresby"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "PG"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-9.4788888888889"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "147.14944444444"
+      }
+    }, {
+      "capKo" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "수바"
+      },
+      "capEn" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Suva"
+      },
+      "iso" : {
+        "type" : "literal",
+        "value" : "FJ"
+      },
+      "lat" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "-18.133333333333"
+      },
+      "lon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#double",
+        "type" : "literal",
+        "value" : "178.43333333333"
+      }
+    } ]
+  }
+}
