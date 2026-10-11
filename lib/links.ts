@@ -17,7 +17,7 @@ import {
 
 export type OutLink = { href: string; label: string; note?: string };
 
-const VIKING: OutLink = { href: VIKING_URL, label: "바이킹이야기", note: "사이트를 여는 중입니다" };
+const VIKING: OutLink = { href: VIKING_URL, label: "바이킹이야기" };
 const GERMANIC: OutLink = { href: GERMANIC_URL, label: "게르만이야기" };
 const FRANKS: OutLink = { href: `${GERMANIC_URL}/kingdoms/franks`, label: "게르만이야기 · 프랑크" };
 
@@ -59,7 +59,7 @@ const BY_ISO: Record<string, OutLink[]> = {
   NO: [VIKING],
   DK: [VIKING],
   SE: [VIKING],
-  IS: [VIKING],
+  IS: [VIKING, { href: `${VIKING_URL}/chronicle/iceland-greenland`, label: "바이킹이야기 · 아이슬란드와 그린란드" }],
   IL: [
     { href: CHOSEN_URL, label: "더 초즌 · 성경" },
     { href: `${CHOSEN_URL}/map`, label: "더 초즌 지도" },
