@@ -9,6 +9,7 @@ import { capitalLine, countries, countryByIso, formatArea, formatDensity, format
 import { carouselHref, learnHref, sisterLinks } from "@/lib/links";
 import { articleLd, breadcrumbLd, jsonLd, pageMetadata } from "@/lib/seo";
 import { TIMELINE_URL } from "@/lib/site";
+import { CoupangCard } from "@/components/CoupangCard";
 
 type Params = { iso: string };
 
@@ -131,6 +132,7 @@ export default async function CountryPage({ params }: { params: Promise<Params> 
         {flag?.year ? <p className="mt-1 text-xs text-muted">도안·제정: {flag.year}</p> : null}
       </section>
 
+      <CoupangCard />
       <section className="mt-8 text-sm leading-7">
         <h2 className="font-serif text-2xl">언어 · 종교 · 시차</h2>
         <p className="mt-3">언어: {country.languages.map((language) => `${language.ko} (${language.en})`).join(", ")}</p>

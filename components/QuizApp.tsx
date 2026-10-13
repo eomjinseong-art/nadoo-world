@@ -5,6 +5,7 @@ import { useEffect, useMemo, useState } from "react";
 import { WorldMap } from "@/components/WorldMap";
 import { countryByIso, hashString, regionKo, seoulDate } from "@/lib/countries";
 import { MODES, buildRound, type Difficulty, type Mode, type QuizQuestion } from "@/lib/quiz";
+import { CoupangCard } from "@/components/CoupangCard";
 
 const WRONGS_KEY = "nadoo-world-wrongs";
 const BEST_KEY = "nadoo-world-best-streak";
@@ -233,6 +234,7 @@ export function QuizApp() {
               나라 카드
             </Link>
           </div>
+          <CoupangCard />
         </div>
       ) : null}
     </div>

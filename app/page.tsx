@@ -6,6 +6,7 @@ import { SisterSites } from "@/components/SisterSites";
 import { countries } from "@/lib/countries";
 import { jsonLd, pageMetadata, websiteLd } from "@/lib/seo";
 import { BRAND_LINE, HOME_SECTIONS, SITE_SUB, SITE_TAGLINE } from "@/lib/site";
+import { CoupangCard } from "@/components/CoupangCard";
 
 export const metadata = pageMetadata({
   title: "홈",
@@ -34,6 +35,7 @@ export default function Home() {
           </Link>
         </div>
       </section>
+      <CoupangCard />
       <div className="dentil opacity-50" aria-hidden />
       <section className="mt-8" aria-labelledby="map-heading">
         <h2 id="map-heading" className="font-serif text-2xl">
