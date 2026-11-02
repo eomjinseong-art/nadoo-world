@@ -21,6 +21,7 @@ export const PERSIA_URL = "https://persia-stories.vercel.app";
 export const CHOSEN_URL = "https://the-chosen-korean.vercel.app";
 export const PHILOSOPHY_URL = "https://philosophy-stories.vercel.app";
 export const KOREA_URL = "https://korea-stories.vercel.app";
+export const WORLDWARS_URL = "https://nadoo-worldwars.vercel.app";
 export const ARTS_URL = "https://nadoo-arts.vercel.app";
 export const TIMELINE_URL = "https://nadoo-timeline.vercel.app";
 export const HUB_URL = "https://tinalinkeom.vercel.app";
@@ -39,6 +40,7 @@ export const SISTER_SITES = [
   { href: CHOSEN_URL, label: "더 초즌 · 성경", en: "The Chosen · Bible" },
   { href: PHILOSOPHY_URL, label: "철학이야기", en: "Philosophy" },
   { href: KOREA_URL, label: "대한민국이야기", en: "Korea" },
+  { href: WORLDWARS_URL, label: "세계대전이야기", en: "World Wars" },
   { href: SITE_URL, label: "나두세계", en: "World", current: true },
   { href: ARTS_URL, label: "나두예술", en: "Arts" },
   { href: TIMELINE_URL, label: "나두연표", en: "Timeline" },

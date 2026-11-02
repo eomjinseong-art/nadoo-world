@@ -13,12 +13,15 @@ import {
   ROME_URL,
   TIMELINE_URL,
   VIKING_URL,
+  WORLDWARS_URL,
 } from "@/lib/site";
 
 export type OutLink = { href: string; label: string; note?: string };
 
 const VIKING: OutLink = { href: VIKING_URL, label: "바이킹이야기" };
 const GERMANIC: OutLink = { href: GERMANIC_URL, label: "게르만이야기" };
+const WORLDWARS: OutLink = { href: `${WORLDWARS_URL}/map`, label: "세계대전이야기 · 진영 지도" };
+const WORLDWARS_ISO = new Set(["DE", "FR", "GB", "RU", "US", "JP", "IT", "PL", "AT", "HU", "TR", "CN", "KR"]);
 const FRANKS: OutLink = { href: `${GERMANIC_URL}/kingdoms/franks`, label: "게르만이야기 · 프랑크" };
 
 const BY_ISO: Record<string, OutLink[]> = {
@@ -72,6 +75,7 @@ const BY_ISO: Record<string, OutLink[]> = {
 
 export function sisterLinks(country: Country): OutLink[] {
   const links = [...(BY_ISO[country.iso2] ?? [])];
+  if (WORLDWARS_ISO.has(country.iso2)) links.push(WORLDWARS);
   if (country.films.length) {
     links.push({ href: `${TIMELINE_URL}/movies`, label: "나두연표 · 영화" });
   }
