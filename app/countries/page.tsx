@@ -1,3 +1,4 @@
+import { NadooAd } from "@/components/NadooAd";
 import { CountryBrowser } from "@/components/CountryBrowser";
 import { JsonLd } from "@/components/JsonLd";
 import { PageHead } from "@/components/PageHead";
@@ -23,6 +24,7 @@ export default function CountriesPage() {
         ])}
       />
       <PageHead kicker="COUNTRIES" title="나라" lead="이름, 수도, ISO로 찾습니다. 내륙국과 대륙, 유엔 지위로 거를 수 있습니다." />
+      <NadooAd inline />
       <div className="mt-6">
         <CountryBrowser />
       </div>

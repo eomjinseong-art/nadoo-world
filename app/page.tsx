@@ -1,3 +1,4 @@
+import { NadooAd } from "@/components/NadooAd";
 import Link from "next/link";
 import { CoupangBanner } from "@/components/CoupangBanner";
 import { HomeExplorer } from "@/components/HomeExplorer";
@@ -45,6 +46,7 @@ export default function Home() {
           <HomeExplorer />
         </div>
       </section>
+      <NadooAd inline />
       <section className="mt-12">
         <h2 className="font-serif text-2xl">공부 길</h2>
         <div className="mt-4 grid gap-4 sm:grid-cols-2">

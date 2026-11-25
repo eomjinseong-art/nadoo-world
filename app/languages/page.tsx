@@ -1,3 +1,4 @@
+import { NadooAd } from "@/components/NadooAd";
 import Link from "next/link";
 import { PageHead } from "@/components/PageHead";
 import { countries } from "@/lib/countries";
@@ -47,6 +48,7 @@ export default function LanguagesPage() {
           ))}
         </ul>
       </section>
+      <NadooAd inline />
       <ul className="mt-6 space-y-4">
         {rows.map(([ko, row]) => (
           <li key={ko}>

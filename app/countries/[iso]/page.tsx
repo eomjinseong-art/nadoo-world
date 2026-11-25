@@ -1,3 +1,4 @@
+import { NadooAd } from "@/components/NadooAd";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
@@ -126,6 +127,7 @@ export default async function CountryPage({ params }: { params: Promise<Params> 
         </p>
       </section>
 
+      <NadooAd inline />
       <section className="mt-8">
         <h2 className="font-serif text-2xl">국기</h2>
         <p className="mt-3 text-sm leading-7">{flag?.text}</p>
