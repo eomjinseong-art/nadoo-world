@@ -1,3 +1,4 @@
+import { NadooAd } from "@/components/NadooAd";
 import Link from "next/link";
 import { PageHead } from "@/components/PageHead";
 import stories from "@/data/stories.json";
@@ -29,6 +30,7 @@ export default function CapitalsPage() {
           ))}
         </ul>
       </section>
+      <NadooAd inline />
       <section className="mt-8">
         <h2 className="font-serif text-2xl">짧게</h2>
         <ul className="mt-3 space-y-2 text-sm">

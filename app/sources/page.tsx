@@ -1,3 +1,4 @@
+import { NadooAd } from "@/components/NadooAd";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { PageHead } from "@/components/PageHead";
 import { pageMetadata } from "@/lib/seo";
@@ -13,6 +14,7 @@ export default function SourcesPage() {
     <div className="mx-auto max-w-3xl px-4 py-8">
       <Breadcrumbs items={[{ href: "/", label: "홈" }, { label: "출처" }]} />
       <PageHead kicker="SOURCES" title="출처" lead="2026-10-11에 받아 사이트에 넣어 둔 자료입니다. 페이지를 열 때 바깥 API를 부르지 않습니다. 없는 숫자는 만들지 않았습니다." />
+      <NadooAd inline />
       <section className="mt-8 space-y-4 text-sm leading-7">
         <h2 className="font-serif text-xl">나라의 뼈대</h2>
         <p>

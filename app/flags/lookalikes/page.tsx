@@ -1,3 +1,4 @@
+import { NadooAd } from "@/components/NadooAd";
 import Link from "next/link";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Flag } from "@/components/Flag";
@@ -17,6 +18,7 @@ export default function LookalikesPage() {
     <div className="mx-auto max-w-3xl px-4 py-8">
       <Breadcrumbs items={[{ href: "/", label: "홈" }, { href: "/flags", label: "국기" }, { label: "헷갈리는 국기" }]} />
       <PageHead kicker="LOOKALIKES" title="헷갈리는 국기" lead={`${lookalikes.length}묶음. 비율과 문장이 핵심인 경우가 많습니다.`} />
+      <NadooAd inline />
       <ul className="mt-8 space-y-6">
         {lookalikes.map((group) => (
           <li key={group.id} className="rounded-lg border border-line bg-card p-4">
