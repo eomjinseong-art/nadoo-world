@@ -127,7 +127,7 @@ export default async function CountryPage({ params }: { params: Promise<Params> 
         </p>
       </section>
 
-      <NadooAd inline />
+      <NadooAd inline types="lodge" />
       <section className="mt-8">
         <h2 className="font-serif text-2xl">국기</h2>
         <p className="mt-3 text-sm leading-7">{flag?.text}</p>
